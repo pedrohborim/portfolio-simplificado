@@ -109,9 +109,9 @@ body {
     border-radius: 50%;
 }
 
-.home.container-foto img {
+.home .container-foto img {
     width: 100%;
-    border-radius: 500%;
+    border-radius: 50%;
 }
 
 .home .foto.sombra-interna {
